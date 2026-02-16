@@ -1,6 +1,3 @@
-## Hi there
-
-
 ![Profile Banner](assets/video.gif)
 
 
@@ -11,21 +8,15 @@ I'm CSE Student • Focused Building <br>
 
 ---
 
-## ⚡ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,mongodb,git,github,java,python,c" />
-</p>
-
----
 
 ## 🌍 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR-LINK">
+<a href="https://linkedin.com/in/arvind-dagade-8493431b4/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="mailto:YOURMAIL@gmail.com">
+<a href="mailto:dagadearvind3@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
