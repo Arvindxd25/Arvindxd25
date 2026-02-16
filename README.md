@@ -1,8 +1,6 @@
 ## Hi there
 Arvindxd25
- ├── README.md
- └── assets/
-      └──video.gif
+
 ![Profile Banner](assets/video.gif)
 
 
