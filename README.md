@@ -1,4 +1,8 @@
 ![Profile Banner](assests/vid2.gif)
+<p align="center">
+  <img src="assests/vid2.gif" width="400" />
+</p>
+
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Open+Source+Contributor;Problem+Solver;Always+Learning+New+Things" />
