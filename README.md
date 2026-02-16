@@ -1,5 +1,5 @@
-## Hi there 👋
-![DEMO GIF] (https://pin.it/1kDggyRfS)
+## Hi there
+![Profile Banner] (https://pin.it/1kDggyRfS)
 
 
 <!--
