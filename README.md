@@ -19,6 +19,9 @@ I'm CSE Student • Focused Building <br>
 <a href="mailto:dagadearvind3@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+<a href="https://www.instagram.com/arvinndxd_/">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
 </p>
 
 ---
