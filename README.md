@@ -1,9 +1,11 @@
 ![Profile Banner](assets/video.gif)
 
-
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Open+Source+Contributor;Problem+Solver;Always+Learning+New+Things" />
+</p>
 <h3 align="center">
-I'm CSE Student • Focused Building <br>
-• Learning • Contributing
+Computer Science Engineer in Progress 👨‍💻 <br>
+Building • Breaking • Learning • Repeating 🔁
 </h3>
 
 ---
