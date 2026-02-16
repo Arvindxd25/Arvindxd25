@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![ALt Text](Wallpaper For Laptop Gamer.jpeg)
+
 
 <!--
 **Arvindxd25/Arvindxd25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
