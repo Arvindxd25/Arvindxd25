@@ -1,5 +1,5 @@
 ## Hi there
-![Profile Banner] (https://pin.it/1kDggyRfS)
+![Profile Banner] (https://pin.it/1kDggyRfS.gif)
 
 
 <!--
