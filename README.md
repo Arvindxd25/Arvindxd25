@@ -1,7 +1,7 @@
 ## Hi there
 Arvindxd25
 
-![Profile Banner](assets/video.gif)
+![Banner](assets/video.gif)
 
 
 
