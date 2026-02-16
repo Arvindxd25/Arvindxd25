@@ -1,7 +1,5 @@
 ![Profile Banner](assests/vid2.gif)
-<p align="center">
-  <img src="assests/vid2.gif" width="400" />
-</p>
+
 
 
 <p align="center">
